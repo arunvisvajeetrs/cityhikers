@@ -1,0 +1,42 @@
+@import "bulma/bulma";
+
+.container {
+  display: block;
+  margin: 0 auto;
+  padding: 0 16px;
+  padding: 0 1rem;
+}
+.navbar {
+    height: 4rem;
+    transition: height 0.2s ease-in-out;
+  &.sticky-nav {
+    height: 3rem;
+    #logo {
+        height: 40px;
+      }
+  }
+  #logo {
+    height: 70px;
+  }
+
+  &.has-shadow {
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+
+  &.is-fixed-top {
+    top: 0;
+    z-index: 999;
+    width: 100%;
+    position: fixed;
+  }
+}
+
+.banner-image {
+    background-position: 70% 70%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 55vh;
+}
+.section .title{
+    border-bottom: 2px lightgray solid;
+}
