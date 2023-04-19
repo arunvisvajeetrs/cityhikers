@@ -32,7 +32,7 @@ function Navbar() {
         <a className="navbar-item" href="/about">
           About
         </a>
-        <a className="navbar-item" href="/posts">
+        <a className="navbar-item pr-4" href="/posts">
           Posts
         </a>
       </div>

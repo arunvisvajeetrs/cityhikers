@@ -4,8 +4,11 @@ const {frontmatter} = Astro.props;
 const { title, description, bannerImage }= frontmatter;
 ---
 <Layout title="City hikers">
-  <img src={bannerImage}/>
-  <h1 class="title is-2">{title}</h1>
-  <p>{description}</p>
-  <slot /> <!-- Markdown content is injected here -->
+  <main class="container">
+      <h2 class="title is-2 mt-4">{title}</h2>
+      <p class="block">{description}</p>
+      <div class="content">
+        <slot />
+      </div>
+  </main>
 </Layout>
