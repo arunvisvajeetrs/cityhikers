@@ -23,7 +23,8 @@ function Navbar() {
     >
       <div className="navbar-brand">
         <a className="navbar-item" href="/">
-          <img src="" alt="Logo" />
+          <img src="/logo.png" alt="Logo" />
+          <span>City Hikers</span>
         </a>
       </div>
 
@@ -31,11 +32,8 @@ function Navbar() {
         <a className="navbar-item" href="/about">
           About
         </a>
-        <a className="navbar-item" href="/travel">
-          Travel
-        </a>
-        <a className="navbar-item" href="/food">
-          Food
+        <a className="navbar-item" href="/posts">
+          Posts
         </a>
       </div>
     </nav>
