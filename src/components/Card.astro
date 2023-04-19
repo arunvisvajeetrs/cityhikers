@@ -3,10 +3,11 @@ export interface Props {
 	title: string;
 	body: string;
 	href: string;
-	className: string
+	className: string;
+	bannerImage: string;
 }
 
-const { href, title, body, className } = Astro.props;
+const { href, title, body, className, bannerImage } = Astro.props;
 ---
 
 <li class={`link-card ${className}`}>
@@ -24,7 +25,6 @@ const { href, title, body, className } = Astro.props;
 	.link-card {
 		list-style: none;
 		display: flex;
-		min-height: 200px;
 		padding: 0.25rem;
 		background-color: white;
 		background-image: none;
