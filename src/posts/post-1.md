@@ -6,10 +6,9 @@ slug: post-1
 category: travel
 ---
 
-This post will help you cover Kochi and nearby attractions in 3 days.  
-To cover the most of God's own country in 3 days is a close to impossible task. But I'll still try to give you an itinenary that will make you want more and come visit this beautiful place again.
+To cover the most of God's own country in 3 days is a close to impossible task. But I'll still try to give you an itinerary that will make you want more and come visit this beautiful place again.
 
-I have split the itinenary into 3 landscapes, day 1 would be in a House boat in the backwaters of Alleppey, day 2 is sightseeing the Kochi city and day 3 would be in mountains of Munnar.
+I have split the itinerary into 3 landscapes, day 1 would be in a House boat in the backwaters of Alleppey, day 2 is sightseeing the Kochi city and day 3 would be in mountains of Munnar.
 <br/>
 <br/>
 <br/>
@@ -38,12 +37,13 @@ On the second day of your trip, you can head to Kochi, also known as the Queen o
 <br/>
 2. Next, you can visit the Mattancherry Palace. The palace was built in the 16th century by the Portuguese and later renovated by the Dutch. The palace houses a museum that displays a wide range of artifacts and murals depicting the history of Kochi.
 <br/>
+<br/>
 
 ![Matanchery Palace inside](/public/matanchery_palace.jpeg "Matanchery Palace")
 ![Matanchery Palace exterior view](/public/mattancherry-palace.jpeg "Matanchery Palace exterior view")
 <br/>
 <br/>
-3. You'll then head to the heart of Kochi,the Cochin Jewish Synagogue, which is one of the oldest synagogues in the Commonwealth of Nations. The synagogue was built in 1568, and is a testament to the rich Jewish history of the region. You'll see intricate chandeliers, ornate tiles, and antique furnishings that are a testament to the unique cultural heritage of this part of India.
+1. You'll then head to the heart of Kochi,the Cochin Jewish Synagogue, which is one of the oldest synagogues in the Commonwealth of Nations. The synagogue was built in 1568, and is a testament to the rich Jewish history of the region. You'll see intricate chandeliers, ornate tiles, and antique furnishings that are a testament to the unique cultural heritage of this part of India.
 <br/>
 
 ![Jewish Synagogue](/public/JewishSynagouge.jpeg)

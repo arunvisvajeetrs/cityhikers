@@ -1,0 +1,29 @@
+---
+import Layout from "../layouts/Layout.astro";
+---
+
+<Layout title="404">
+  <div class="container">
+    <h1>404</h1>
+    <p>Oops, looks like this page is missing!</p>
+    <img
+      src="/cat_error.gif"
+      alt="Cat error"
+    />
+    <p>But don't worry, this cute kitty is here to cheer you up.</p>
+    <p>Why not try <a href="/">going back to the homepage</a> instead?</p>
+  </div>
+</Layout>
+<style>
+  h1 {
+    font-size: 4rem;
+    margin-top: 1rem;
+  }
+  p {
+    font-size: 1.5rem;
+  }
+  img {
+    margin-top: 2em;
+    max-width: 100%;
+  }
+</style>
