@@ -31,7 +31,7 @@ On the second day of your trip, you can head to Kochi, also known as the Queen o
 1. Your first stop can be the Chottanikkara temple, a famous Hindu temple located on the outskirts of Kochi. The temple is dedicated to Goddess Bhagavathy and is believed to have healing powers. The temple architecture is exquisite, and the temple complex is surrounded by lush greenery.
 <br/>
 
-![Chotanikkara Temple](../../public/Chotanikkara.jpeg "Chotanikkara Bagavathy Temple")
+![Chotanikkara Temple](../../Chotanikkara.jpeg "Chotanikkara Bagavathy Temple")
 
 <br/>
 <br/>
@@ -39,21 +39,21 @@ On the second day of your trip, you can head to Kochi, also known as the Queen o
 <br/>
 <br/>
 
-![Matanchery Palace inside](/public/matanchery_palace.jpeg "Matanchery Palace")
-![Matanchery Palace exterior view](/public/mattancherry-palace.jpeg "Matanchery Palace exterior view")
+![Matanchery Palace inside](/matanchery_palace.jpeg "Matanchery Palace")
+![Matanchery Palace exterior view](/mattancherry-palace.jpeg "Matanchery Palace exterior view")
 <br/>
 <br/>
 1. You'll then head to the heart of Kochi,the Cochin Jewish Synagogue, which is one of the oldest synagogues in the Commonwealth of Nations. The synagogue was built in 1568, and is a testament to the rich Jewish history of the region. You'll see intricate chandeliers, ornate tiles, and antique furnishings that are a testament to the unique cultural heritage of this part of India.
 <br/>
 
-![Jewish Synagogue](/public/JewishSynagouge.jpeg)
+![Jewish Synagogue](/JewishSynagouge.jpeg)
 
 <br/>
 <br/>
 4. Your final stop in Kochi will be to see the iconic Chinese fishing nets that are one of the city's most recognizable landmarks. The fishing nets are a unique sight to behold and are a testimony to the rich maritime history of Kochi. You'll get a chance to watch the fishermen in action, and maybe even try your hand at using the nets yourself! You can also explore the nearby streets, which are lined with quaint cafes, art galleries, and boutique stores.
 <br/>
 
-![Chinese fishing nets](/public/chinese_fishing_nets.avif "Chinese fishing nets")
+![Chinese fishing nets](/chinese_fishing_nets.avif "Chinese fishing nets")
 <br/>
 <br/>
 <br/>
@@ -65,7 +65,7 @@ On the third day of your trip, you can head to the beautiful hill station of Mun
 You can start your day by visiting the tea gardens and the tea museum, which will give you an insight into the tea-making process. You can also indulge in some tea tasting sessions and buy some exotic tea flavors.
 <br/>
 
-![Munnar](/public/Munnar.jpeg "Munnar")
+![Munnar](/Munnar.jpeg "Munnar")
 <br/>
 Next, you can head to the Eravikulam National Park, which is home to the endangered Nilgiri Tahr. The park is also known for its beautiful flora and fauna and is a must-visit for nature lovers.
 <br/>
