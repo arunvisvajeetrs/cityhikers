@@ -1,8 +1,8 @@
 ---
 title: Three day itinerary for Kochi, Kerala 
 description: This is a crisp 3 day plan to visit Kochi and nearby attractions
-bannerImage: houseboat.jpeg
-slug: post-1
+bannerImage: /houseboat.jpeg
+slug: kochi_3_day
 category: travel
 ---
 

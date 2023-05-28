@@ -2,7 +2,7 @@
 title: Chicken Curry Recipe
 description: A simple delicous recipe
 bannerImage: /chicken-curry.webp
-slug: post-2
+slug: chicken_curry
 category: food
 ---
 
