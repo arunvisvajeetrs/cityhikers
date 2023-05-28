@@ -4,7 +4,7 @@ const {frontmatter} = Astro.props;
 const { title, description, bannerImage }= frontmatter;
 ---
 <Layout title="City hikers">
-  <main class="container">
+  <main class="container is-max-desktop">
       <h2 class="title is-2 mt-4">{title}</h2>
       <p class="block">{description}</p>
       <div class="content">
