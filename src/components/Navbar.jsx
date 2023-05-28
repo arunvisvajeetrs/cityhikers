@@ -3,7 +3,11 @@ import { useState, useEffect } from "react";
 
 function Navbar() {
   const [isSticky, setIsSticky] = useState(false);
+  const [isMenuOpen, setMenuOpen] = useState(false);
 
+  const toggleMenu = () => {
+    setMenuOpen(!isMenuOpen);
+  };
   useEffect(() => {
     window.addEventListener("scroll", handleScroll);
     return () => {
@@ -26,15 +30,29 @@ function Navbar() {
           <img src="/logo.png" alt="Logo" />
           <span>City Hikers</span>
         </a>
+
+        <a
+          role="button"
+          className={`navbar-burger burger ${isMenuOpen ? "is-active" : ""}`}
+          aria-label="menu"
+          aria-expanded={isMenuOpen ? "true" : "false"}
+          onClick={toggleMenu}
+        >
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+          <span aria-hidden="true"></span>
+        </a>
       </div>
 
-      <div className="navbar-end">
-        <a className="navbar-item" href="/about">
-          About
-        </a>
-        <a className="navbar-item pr-4" href="/posts">
-          Posts
-        </a>
+      <div className={`navbar-menu ${isMenuOpen ? "is-active" : ""}`}>
+        <div className="navbar-end">
+          <a className="navbar-item" href="/about">
+            About
+          </a>
+          <a className="navbar-item pr-4" href="/posts">
+            Posts
+          </a>
+        </div>
       </div>
     </nav>
   );
