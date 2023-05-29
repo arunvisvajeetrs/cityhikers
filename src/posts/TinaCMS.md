@@ -1,7 +1,7 @@
 ---
 title: TinaCMS
 description: Testing a post from TINA cloud
-bannerImage: /tinacms.jpg
+bannerImage: /server.png
 slug: tinacms
 category: travel
 ---
