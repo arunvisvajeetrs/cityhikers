@@ -16,7 +16,7 @@ jobs:
       with:
         node-version: '18'
         cache: 'npm'
-    - run: npm install && npm run build
+    - run: npm install && npm run tinacms build && npm run build
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@v4.3.4
       with:
